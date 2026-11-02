@@ -1,3 +1,0 @@
-pybullet build time: Nov  2 2026 13:48:48
-PASS: approach phase, gain scaling, phase latch, causal EMA, force masking, original 8s equivalence, unsettled censoring
-PASS: frozen sources/model, 3240 traces, 8s/24s metrics, exact delay, full mask invariance, 108 summaries, stress replay
