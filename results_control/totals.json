@@ -1,0 +1,34 @@
+[
+  {
+    "mode": "no_force",
+    "n": 810,
+    "successes_8s": 0,
+    "successes_24s": 0,
+    "mean_mae_n": 13.950096899059819,
+    "max_peak_n": 89.63873608065713
+  },
+  {
+    "mode": "original",
+    "n": 810,
+    "successes_8s": 565,
+    "successes_24s": 578,
+    "mean_mae_n": 1.5421149144272879,
+    "max_peak_n": 28.204418813764807
+  },
+  {
+    "mode": "low_gain",
+    "n": 810,
+    "successes_8s": 142,
+    "successes_24s": 799,
+    "mean_mae_n": 0.208709266246662,
+    "max_peak_n": 25.999511340293587
+  },
+  {
+    "mode": "filtered_low_gain",
+    "n": 810,
+    "successes_8s": 142,
+    "successes_24s": 796,
+    "mean_mae_n": 0.20100237079433173,
+    "max_peak_n": 25.82798312030504
+  }
+]
